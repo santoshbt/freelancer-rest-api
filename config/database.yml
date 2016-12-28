@@ -1,0 +1,7 @@
+development:
+ adapter: mysql2
+ encoding: utf8
+ database: proposal_dev
+ username: root
+ password: 
+ host: localhost	
